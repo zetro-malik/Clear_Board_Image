@@ -6,5 +6,5 @@ this project will solve this problem with providing Image of the board without t
 
 
 - First frames are went through YOLO for detection of board and person.
-- Then reach frame is sliced up into 3-part, it'll keep updating the sliced_imgs until lectures end
+- Then each frame is sliced up into 3-part, it'll keep updating the sliced_imgs until lecture ends
 - At the end it will stitched images together
